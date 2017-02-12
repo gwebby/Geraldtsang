@@ -1,0 +1,2 @@
+function wpcom_custom_jumplist_reader(){window.external.msSiteModeCreateJumplist("Recent posts");window.external.msSiteModeAddJumpListItem("First blog post","https://geraldtsang.wordpress.com/2017/02/12/first-blog-post/","https://geraldtsang.files.wordpress.com/2017/02/cropped-logomakr_1f8cnt1.png?w=16");}
+try{if(window.external && 'msIsSiteMode' in window.external){if (window.external.msIsSiteMode()){wpcom_custom_jumplist_reader();wpcom_sitemode_comment_notify();}}}catch(e){}
